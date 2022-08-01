@@ -11,7 +11,7 @@ In dieser Übung werden die Lernmodelle anhand unterschiedlicher Datenanalysemet
 
 ## Funktionsausführung
 Auf der Notebook 3-Decision_Trees_und_Random_Forests_Projekt-Loesung.ipynb klicken.
-Restart der Kernel und Run das gesamte Notebook, damit alle Bibliotheken aufgeladen werden und somit die Funktion describe() ausgeführt wird
+Restart der Kernel und Run das gesamte Notebook, damit alle Bibliotheken aufgeladen werden und somit die Funktion predict() ausgeführt wird
 
 Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
 
