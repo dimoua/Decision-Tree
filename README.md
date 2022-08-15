@@ -9,7 +9,7 @@ Die Requirement enthält die verschiedene Klasse, die für die Ausführung der K
 ## Beispiel der Übungsaufgabe
 In dieser Übung werden die Lernmodelle anhand unterschiedlicher Datenanalysemethoden evaluiert. Dabei werden Konfusionsmatrizen (Confusion Matrix) und weitere Kennzahlen wie die Treffergenauigkeit (Accuracy), Präzision (Precision) und Sensitivität (Recall) angewandt, um daraus neue Lernmodelle abzuleiten. Mithilfe der Funktion predict(), welche auf der dtree Dataframe angewendet wird, wird die Vorhersagen aus den Testdaten und die Werte erstellt. Darauffolgend werden der Klassifikation Report und der Konfusion Matrix ausgewertet.
 
-
+<img width="336" alt="3-Decision_Trees_und_Random_Forests_Projekt-Loesung ipynb" src="https://user-images.githubusercontent.com/62958158/184745309-3d275d2d-0637-4a7b-9998-73964218c1fb.png">
 
 <img width="102" alt="Decision-Tree_3-Decision_Trees_und_Random_Forests_Projekt-Loesung_Matrix ipynb" src="https://user-images.githubusercontent.com/62958158/184750038-9d71ffe0-ac8b-4cc4-9193-7a3bd1108774.png">
 
